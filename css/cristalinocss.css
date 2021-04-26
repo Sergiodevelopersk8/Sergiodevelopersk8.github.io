@@ -1,0 +1,36 @@
+.cristalino
+{
+    border-radius:20px;
+height:500px;
+width: 400px;
+background:rgba(4, 152, 238, 0.445);
+float:left;
+margin-left: 10px;
+margin-top: 50px;
+}
+.cristalino2
+{
+    border-radius:20px;
+    height:500px;
+    width: 400px;
+background:rgba(4, 152, 238, 0.445);
+float:left;
+margin-left: 29px;
+margin-top: 50px;
+}
+.cristalino3
+{
+    border-radius:20px;
+    height:500px;
+    width: 400px;
+background:rgba(4, 152, 238, 0.445);
+float:right;
+margin-right: 25px;
+margin-top: 50px;
+}
+.imagenaboutus
+{ 
+    height:29vh;
+    width:44vh;
+    border-radius: 20px;
+}
