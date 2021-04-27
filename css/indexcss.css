@@ -13,3 +13,12 @@ background-size: cover;
 }
 
 
+.footer
+{
+ 
+    width:1330px;
+    height:100px;
+    background:rgba(4, 152, 238, 0.445);
+    margin-top:700px;
+}
+
