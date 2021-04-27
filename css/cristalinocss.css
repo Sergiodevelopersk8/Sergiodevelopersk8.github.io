@@ -34,3 +34,32 @@ margin-top: 50px;
     width:44vh;
     border-radius: 20px;
 }
+
+.titulo{
+    
+  
+    margin-top: 2px;
+    float: right;
+    margin-right: 3px;
+    width: 98%;
+    height: 20px;
+    border-radius: 7px;
+
+   
+
+}
+
+.titulo:hover{
+    background:rgba(24, 55, 230, 0.644);
+}
+
+.title{
+    font-size:20px;
+    color:white;
+    margin-right: 129px;
+    float: right;
+}
+
+.texto{
+
+}
