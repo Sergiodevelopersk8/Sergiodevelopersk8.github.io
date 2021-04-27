@@ -2,7 +2,7 @@
 {
     border-radius:20px;
 height:500px;
-width: 400px;
+width: 405px;
 background:rgba(4, 152, 238, 0.445);
 float:left;
 margin-left: 10px;
@@ -30,9 +30,11 @@ margin-top: 50px;
 }
 .imagenaboutus
 { 
-    height:29vh;
-    width:44vh;
-    border-radius: 20px;
+    height: 37vh;
+    width: 64vh;
+   
+    margin-top: -15px;
+    border-radius: 10px;
 }
 
 .titulo{
