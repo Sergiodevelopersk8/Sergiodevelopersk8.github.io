@@ -1,7 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap');
 .contacos
 {
     width:500px;
     height:248px;
-    background:red;
+    background:rgba(8, 8, 8, 0.603);
     margin: auto;
+}
+
+.ptwitter
+{
+    font-size: 24px;
+    color: white;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.atwitter
+{
+    float: right;
+    margin-right: 145px;
+    margin-top: -56px;
+    font-size: 37px;
+    color: blue; 
+}
+
+.pfacebook{
+    font-size: 24px;
+    color: white;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.afacebook
+{
+    float: right;
+    margin-right: 153px;
+    margin-top: -61px;
+    font-size: 37px;
+    color: blue; 
+}
+
+.pwhatsapp
+{
+    font-size: 24px;
+    color: white;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.awhatsapp
+{
+    float: right;
+    margin-right: 144px;
+    margin-top: -61px;
+    font-size: 37px;
+    color: blue; 
+}
+
+.pemail
+{
+    font-size: 24px;
+    color: white;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.aemail
+{
+    float: right;
+    margin-right: 144px;
+    margin-top: -61px;
+    font-size: 37px;
+    color: blue; 
 }
