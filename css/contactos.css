@@ -12,11 +12,13 @@
     font-size: 24px;
     color: white;
     font-family: 'Merriweather Sans', sans-serif;
+    float: right;
+    margin-right: 202px;
 }
 .atwitter
 {
     float: right;
-    margin-right: 145px;
+    margin-right: 63px;
     margin-top: -56px;
     font-size: 37px;
     color: blue; 
@@ -26,45 +28,53 @@
     font-size: 24px;
     color: white;
     font-family: 'Merriweather Sans', sans-serif;
+    float: right;
+    margin-right: 163px;
+    margin-top:1px;
 }
 
 .afacebook
 {
     float: right;
-    margin-right: 153px;
+    margin-right: 75px;
     margin-top: -61px;
     font-size: 37px;
     color: blue; 
 }
 
 .pwhatsapp
-{
-    font-size: 24px;
+{   font-size: 24px;
     color: white;
     font-family: 'Merriweather Sans', sans-serif;
+    float: right;
+    margin-right: 171px;
+    margin-top: 1px;
 }
 
 .awhatsapp
 {
     float: right;
-    margin-right: 144px;
+    margin-right: 63px;
     margin-top: -61px;
     font-size: 37px;
     color: blue; 
 }
 
 .pemail
-{
+{   
     font-size: 24px;
     color: white;
     font-family: 'Merriweather Sans', sans-serif;
+    float: right;
+    margin-right: 219px;
+    margin-top: 1px;
 }
 
 .aemail
 {
     float: right;
-    margin-right: 144px;
-    margin-top: -61px;
+    margin-right: 63px;
+    margin-top: -64px;
     font-size: 37px;
     color: blue; 
 }
