@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap');
+
+.mision
+{
+width:250px;
+height:250px;
+background:red;
+float:left;
+margin-left:450px;
+}
+
+.vision
+{
+
+    width:250px;
+    height:250px;
+    background:blue;
+float:right;
+margin-right:312px;
+}
+
+.titulomision
+{
+    font-size: 24px;
+    color: white;
+    font-family: 'Merriweather Sans', sans-serif;
+    float: right;
+    margin-right: 93px;
+    margin-top: 1px;
+}
+
+.titulovision
+{
+    font-size: 24px;
+    color: white;
+    font-family: 'Merriweather Sans', sans-serif;
+    float: right;
+    margin-right: 93px;
+    margin-top: 1px;
+}
+
+
+.pvision
+{
+    font-size: 24px;
+    color: white;
+    font-family: 'Merriweather Sans', sans-serif;
+    float: right;
+    margin-right: 163px;
+}
+
+
+.pmision
+{
+    font-size: 24px;
+    color: white;
+    font-family: 'Merriweather Sans', sans-serif;
+    float: right;
+    margin-right: 163px;
+}
