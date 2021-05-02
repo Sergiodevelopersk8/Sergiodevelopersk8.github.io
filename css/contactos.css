@@ -78,3 +78,8 @@
     font-size: 37px;
     color: blue; 
 }
+
+a .icon:hover
+{
+color:cornsilk;
+}

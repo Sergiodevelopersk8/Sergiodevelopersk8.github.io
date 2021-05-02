@@ -12,6 +12,7 @@ nav.menu {
 	position: relative;
 	min-height: 45px;
 	height: 100%;
+	border-radius:10px;
 }
 
 .menu > ul > li {
