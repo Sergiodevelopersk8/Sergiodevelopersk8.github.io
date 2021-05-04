@@ -36,3 +36,16 @@ background-size: cover;
     color:white;
 }
 
+.informacioninicio
+{
+    height: 511px;
+    width: 1074px;
+    background: red;
+    float: left;
+    margin-left: 58px;
+}
+
+.paiseslista li
+{
+    list-style:none;
+}
