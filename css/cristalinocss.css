@@ -1,7 +1,7 @@
 .cristalino
 {
     border-radius:20px;
-height:500px;
+    height:541px;
 width: 405px;
 /*background:rgba(4, 152, 238, 0.445);*/
 background:rgba(174, 107, 31, 0.623);
@@ -9,26 +9,69 @@ float:left;
 margin-left: 10px;
 margin-top: 50px;
 }
+
+.cristalino ul li
+{
+    list-style: none;
+    color: #fff;
+    margin-left: -35px;
+    margin-top: 12px;
+}
+
+
 .cristalino2
 {
     border-radius:20px;
-    height:500px;
+    height:541px;
     width: 405px;
       background:rgba(174, 107, 31, 0.623);
 float:left;
 margin-left: 29px;
 margin-top: 50px;
 }
+
+.cristalino2 ul li
+{
+    list-style: none;
+    color: #fff;
+    margin-left: -35px;
+    margin-top: 12px;
+}
+
 .cristalino3
 {
     border-radius:20px;
-    height:500px;
+    height:541px;
     width: 405px;
       background:rgba(174, 107, 31, 0.623);
 float:right;
 margin-right: 25px;
 margin-top: 50px;
 }
+
+.cristalino3 ul li
+{
+    list-style:none;
+    margin-left: -30px;
+    color:#fff;
+    margin-top: 12px;
+}
+
+.maritimoinfo
+{
+    height: 233px;
+    overflow-y: auto;
+  
+    width: 405px;
+    margin-top: -23px;;
+}
+
+.consi
+{
+    margin-left: 12px;
+    color:#fff;
+}
+
 .imagenaboutus
 { 
     height: 37vh;
@@ -66,4 +109,75 @@ margin-top: 50px;
 .texto{
 color:white;
 font-size:20px;
+}
+
+
+.infoservi
+{
+    width: 686px;
+    height: 204px;
+    background: rgba(174, 107, 31, 0.623);
+    margin-top: 48px;
+    margin-left: 332px;
+
+    border-radius: 15px;
+}
+
+.tituinfoservi
+{
+color: #fff;
+font-size: 26px;
+    margin-left: 297px;
+}
+
+.infoservi ul li
+{
+    list-style:none;
+    color:cornsilk;
+
+}
+
+.infoservi p
+{
+     color: #fff;
+}
+
+
+
+.mas
+{
+    height:auto;
+    width:233px;
+    margin-top:715px;
+    background: brown;
+}
+
+.compras
+{
+    height:100px;
+    width:100px;
+    
+    background: red;
+color:#fff;
+font-size:20px;
+}
+
+.mudanzasdiv
+{
+    height: 100px;
+    width: 100px;
+    margin-top: -98px;
+    margin-left: 104px;
+    background: blue;
+    color: #fff;
+}
+
+
+.tarea
+{
+    height: 100px;
+    width: 100px;
+    margin-left: 212px;
+    margin-top: -101px;
+    background: black;
 }
