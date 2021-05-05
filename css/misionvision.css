@@ -2,21 +2,29 @@
 
 .mision
 {
-width:250px;
-height:250px;
-background:rgba(8, 8, 8, 0.603);
-float:left;
-margin-left:450px;
+    height: 25em;
+    width: 51em;
+    background: rgba(8, 8, 8, 0.603);
+    float: left;
+    margin-left: 199px;
+    overflow: auto;
+    border-radius: 15px;
+
 }
 
 .vision
 {
 
-    width:250px;
-    height:250px;
-    background:rgba(8, 8, 8, 0.603);
-float:right;
-margin-right:312px;
+    height: 270px;
+    width: 51em;
+    background: rgba(8, 8, 8, 0.603);
+    overflow: auto;
+    word-break: break-all;
+    float: left;
+    margin-left: 200px;
+    margin-top: 22px;
+    border-radius: 15px;
+
 }
 
 .titulomision
@@ -25,8 +33,15 @@ margin-right:312px;
     color: white;
     font-family: 'Merriweather Sans', sans-serif;
     float: right;
-    margin-right: 93px;
+    margin-right: 296px;
     margin-top: 1px;
+}
+
+.pm
+{
+    color:white;
+    margin-top:36px;
+   
 }
 
 .titulovision
@@ -35,14 +50,14 @@ margin-right:312px;
     color: white;
     font-family: 'Merriweather Sans', sans-serif;
     float: right;
-    margin-right: 93px;
+    margin-right: 296px;
     margin-top: 1px;
 }
 
 
 .pvision
 {
-    font-size: 24px;
+    font-size: 15px;
     color: white;
     font-family: 'Merriweather Sans', sans-serif;
     float: right;
@@ -52,9 +67,10 @@ margin-right:312px;
 
 .pmision
 {
-    font-size: 24px;
+    font-size: 15px;
     color: white;
     font-family: 'Merriweather Sans', sans-serif;
     float: right;
-    margin-right: 163px;
+    margin-right: 63px;
+  
 }

@@ -36,15 +36,35 @@ background-size: cover;
     color:white;
 }
 
-.informacioninicio
+.infop
 {
-    height: 511px;
-    width: 1074px;
-    background: red;
+    background: rgba(174, 107, 31, 0.623);
+    margin-top: 25px;
+    height: 25em;
+    width: 69em;
     float: left;
-    margin-left: 58px;
+    border-radius: 11px;
+    margin-left: 146px;
+    /* margin: 0 auto; */
+    /* display: block; */
+    overflow: auto;
+    color: #fff;
+   
 }
 
+
+.infop p
+{
+font-size: 15px;
+color: #fff;
+word-break: break-all;
+}
+.infop ul li
+{
+font-size: 15px;
+color: #fff;
+word-wrap: break-word;
+}
 .paiseslista li
 {
     list-style:none;
