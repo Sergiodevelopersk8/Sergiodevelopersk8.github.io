@@ -147,30 +147,35 @@ font-size: 26px;
 .mas
 {
     height: auto;
-    width: 837px;
+    width:1330px;
     margin-top: 20px;
-    background: brown;
-    margin-left: 258px;
+   
+   
     float: left
 }
 
 .compras
 {
-    height: 100px;
-    width: 201px;
-    background: red;
+    width: 300px;
+    height: auto;
+    overflow: auto;
+    background: rgba(174, 107, 31, 0.623);
+    margin-left: 60px;
     color: #fff;
     font-size: 20px;
+    margin-top: 679px;
+    border-radius:10px;
 }
 
 .mudanzasdiv
 {
-    height: auto;
+    height: 282px;
     width: 333px;
-    margin-top: -119px;
-    margin-left: 301px;
-    background: blue;
+    margin-top: -310px;
+    margin-left: 469px;
+    background: rgba(174, 107, 31, 0.623);
     color: #fff;
+    border-radius:10px;
    
 }
 .pmud 
@@ -181,52 +186,53 @@ font-size: 26px;
 .mudanzainfo 
 {
 font-size:18px;
+line-height: 32px;
 }
 
 
 .tarea
 {
-    height: 100px;
-    width: 100px;
+    height: 282px;
+    width: 333px;
     float: right;
+    margin-top: -282px;
     margin-right: 1px;
-    margin-top: -122px;
-    background: black;
+   
+    background: rgba(174, 107, 31, 0.623);
 }
 
 .ebay
 {
-    float:left;
-    width: 120px;
-    height: 53px;
+    float: left;
+    width: 154px;
+    height: 64px;
 }
 
 .amazon
 {
-    float:right;
-    width: 120px;
-    height: 53px;
+    float: right;
+    width: 135px;
+    height: 71px;
     
 }
 
 .alibaba
 {
-    float:left;
-    width: 120px;
-    height: 53px;
+    float: left;
+    width: 143px;
+    height: 116px;
 
 }
 
 .alie
 {
     float: right;
-    width: 120px;
-    height: 53px;
+    width: 140px;
+    height: 87px;
 }
 
 .marcas{
-    width:100px;
-    height:100px;
-    background:white;
-    overflow-y:scroll;
+    width: 300px;
+    height: 111px;
+    overflow: auto;
 }

@@ -19,7 +19,8 @@ background-size: cover;
     width:1330px;
     height:45px;
     background:rgba(8, 8, 8, 0.822);
-    margin-top:856px;
+ /*   margin-top:856px;*/
+       margin-top: 320px;
 }
 
 .textofoot1
@@ -35,6 +36,37 @@ background-size: cover;
     font-size: 20px;
     color:white;
 }
+
+
+.footerconocenos
+{
+ 
+    width:1330px;
+    height:45px;
+    background:rgba(8, 8, 8, 0.822);
+  margin-top:856px;
+      
+}
+
+.textofoot1conocenos
+{
+    font-size:20px;
+    color:white;
+}
+
+.textofoot2conocenos
+{
+    margin-top:-45px;
+    float:right;
+    font-size: 20px;
+    color:white;
+}
+
+
+
+
+
+
 
 .infop
 {
