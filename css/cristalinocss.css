@@ -146,30 +146,41 @@ font-size: 26px;
 
 .mas
 {
-    height:auto;
-    width:233px;
-    margin-top:715px;
+    height: auto;
+    width: 837px;
+    margin-top: 20px;
     background: brown;
+    margin-left: 258px;
+    float: left
 }
 
 .compras
 {
-    height:100px;
-    width:100px;
-    
+    height: 100px;
+    width: 201px;
     background: red;
-color:#fff;
-font-size:20px;
+    color: #fff;
+    font-size: 20px;
 }
 
 .mudanzasdiv
 {
-    height: 100px;
-    width: 100px;
-    margin-top: -98px;
-    margin-left: 104px;
+    height: auto;
+    width: 333px;
+    margin-top: -119px;
+    margin-left: 301px;
     background: blue;
     color: #fff;
+   
+}
+.pmud 
+{
+    color:#fff;
+    font-size: 20px;
+}
+.mudanzainfo 
+{
+font-size:18px;
 }
 
 
@@ -177,7 +188,45 @@ font-size:20px;
 {
     height: 100px;
     width: 100px;
-    margin-left: 212px;
-    margin-top: -101px;
+    float: right;
+    margin-right: 1px;
+    margin-top: -122px;
     background: black;
+}
+
+.ebay
+{
+    float:left;
+    width: 120px;
+    height: 53px;
+}
+
+.amazon
+{
+    float:right;
+    width: 120px;
+    height: 53px;
+    
+}
+
+.alibaba
+{
+    float:left;
+    width: 120px;
+    height: 53px;
+
+}
+
+.alie
+{
+    float: right;
+    width: 120px;
+    height: 53px;
+}
+
+.marcas{
+    width:100px;
+    height:100px;
+    background:white;
+    overflow-y:scroll;
 }
